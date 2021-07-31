@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm HuynhGà (Dinh Hong Huynh):
+I'm Huỳnh Gà (*Đinh Hồng Huỳnh*):
 
 ![](https://komarev.com/ghpvc/?username=honghuynhit)
 
