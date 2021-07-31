@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 **honghuynhit/honghuynhit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+![](https://komarev.com/ghpvc/?username=honghuynhit)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -13,4 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-https://gitmemory.com/honghuynhit
+
+[![honghuynhit's github stats](https://github-readme-stats.vercel.app/api?username=honghuynhit&hide=issues&show_icons=true)](https://github.com/honghuynhit)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=honghuynhit&layout=compact)](https://github.com/honghuynhit)
