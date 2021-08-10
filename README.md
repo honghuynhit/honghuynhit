@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there! 👋
 
 I'm Huỳnh Gà (*Đinh Hồng Huỳnh*):
 
