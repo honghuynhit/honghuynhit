@@ -4,7 +4,7 @@ I'm Huỳnh Gà (*Đinh Hồng Huỳnh*):
 
 ![](https://komarev.com/ghpvc/?username=honghuynhit)
 
-- 🔭 I’m currently working on @hSpace
+- 🔭 I’m currently working on @home
 - 🌱 I’m currently learning: *FastAPI + Docker + Terraform*
 - 💬 Ask me about [here](https://github.com/honghuynhit/honghuynhit/issues)
 - 📫 How to reach me: honghuynhit@gmail.com
