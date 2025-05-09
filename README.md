@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-I'm Huỳnh (*Đinh Hồng Huỳnh*):
+I'm Huỳnh:
 
 ![](https://komarev.com/ghpvc/?username=honghuynhit)
 
